@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.env
+.env.test
+.env.*.local
+.env.prod
+.tool-versions
+yarn-error.log
+npm-debug.log
+node_modules
+tmp
+.elixir_ls
+.vscode
+dump.rdb
